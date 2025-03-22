@@ -18,7 +18,7 @@ Fetches car data dynamically from a hosted JSON file.
 Styled with a luxurious theme and smooth animations.
 
 📷 Live Demo
-🚀 Check it out here: Live Site
+🚀 Check it out here: [Live Site](https://jairmartinez21.github.io/Assignment4JS/)
 
 🛠 Technologies Used
 HTML5 for structure
