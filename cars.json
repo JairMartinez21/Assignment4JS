@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "year": 2024,
+    "price": "$45,000",
+    "hp": "290",
+    "torque": "265 lb-ft",
+    "image": "https://i.ytimg.com/vi/gwSQacsXRog/maxresdefault.jpg"
+  },
+  {
+    "brand": "Ram",
+    "model": "2500",
+    "year": 2024,
+    "price": "$55,000",
+    "hp": "410",
+    "torque": "550 lb-ft",
+    "image": "https://th.bing.com/th/id/R.f58581180ba0bf7f89ac68e18fc66b1b?rik=Sj2BrbgAVZMxkA&pid=ImgRaw&r=0"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Tacoma",
+    "year": 2024,
+    "price": "$40,000",
+    "hp": "278",
+    "torque": "265 lb-ft",
+    "image": "https://cdn.motor1.com/images/mgl/pb79q0/s1/2024-toyota-tacoma-trd-pro.jpg"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2024,
+    "price": "$85,000",
+    "hp": "670",
+    "torque": "850 lb-ft",
+    "image": "https://images.pistonheads.com/nimg/47169/mceu_7123513451683284472488.jpg"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 2024,
+    "price": "$50,000",
+    "hp": "293",
+    "torque": "260 lb-ft",
+    "image": "https://www.carscoops.com/wp-content/uploads/2023/08/2024-Jeep-Grand-Cherokee.jpg"
+  },
+  {
+    "brand": "BMW",
+    "model": "X7",
+    "year": 2024,
+    "price": "$95,000",
+    "hp": "335",
+    "torque": "330 lb-ft",
+    "image": "https://th.bing.com/th/id/R.984588654b8e979a317fed3f7c150d2b?rik=WS5yGUHjNWaDeg&pid=ImgRaw&r=0"
+  }
+]
